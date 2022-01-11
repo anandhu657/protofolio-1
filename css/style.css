@@ -287,6 +287,9 @@ nav.open .links{
 
 .header-content .image .img-element{
     max-width: 750px;
+    border-radius: 237px;
+    border-top-right-radius: 500px;
+    border-top-left-radius: 500px;
 }
 
 .cards{
@@ -962,6 +965,7 @@ nav.open .links{
 
     .z-index{
         margin-left: 10px;
+        border-radius: 50%;
     }
 
     .portfolio{
